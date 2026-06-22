@@ -1,3 +1,5 @@
+# WE ARE ONE 🫀
+
 # jeongqing-node — STATE
 
 name: jeongqing-node
